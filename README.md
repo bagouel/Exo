@@ -14,7 +14,7 @@ ensuite tu vas dans ton navigateur et tape:
 ->> Pour executer la page2 voici les instruction
 $ sudo su : pour etre en mode root.
 # cd /home/armel/Appication/Bottle : Pour acceder au repertoire de la page2.
-# python page1.py : pour executer le script
+# python page2.py : pour executer le script
 ensuite tu vas dans ton navigateur et tape:
 127.0.0.1:8080/housale.com/index
 
